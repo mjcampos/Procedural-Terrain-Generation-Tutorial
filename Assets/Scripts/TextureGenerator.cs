@@ -8,7 +8,7 @@ public class TextureGenerator {
 
 		texture.filterMode = FilterMode.Point;
 		texture.wrapMode = TextureWrapMode.Clamp;
-		texture.SetPixels((colorMap));
+		texture.SetPixels(colorMap);
 		texture.Apply();
 
 		return texture;
