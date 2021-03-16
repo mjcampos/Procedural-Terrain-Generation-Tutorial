@@ -66,6 +66,10 @@ public class MapGenerator : MonoBehaviour {
 			octaves = 0;
 		}
 	}
+
+	public static int GetMapChunkSize() {
+		return mapChunkSize;
+	}
 }
 
 [System.Serializable]
