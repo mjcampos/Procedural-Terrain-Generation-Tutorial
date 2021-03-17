@@ -14,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Procedural Generation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Procedural Generation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/EndlessTerrain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EndlessTerrain.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
     </list>
@@ -27,12 +26,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Procedural-Landmass-Generation/Proc Gen E09/Assets/Scripts/EndlessTerrain.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Procedural-Landmass-Generation/Proc Gen E08/Assets/Scripts/MapGenerator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A640F6C-B241-40B6-897C-AC910F849430/71/bef39069/SerializableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextureGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Procedural-Landmass-Generation/Proc Gen E08/Assets/Scripts/EndlessTerrain.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Procedural-Landmass-Generation/Proc Gen E09/Assets/Scripts/MapGenerator.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,9 +44,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TextureGenerator.cs" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EndlessTerrain.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndlessTerrain.cs" />
       </list>
     </option>
   </component>
@@ -102,7 +104,8 @@
       <workItem from="1615839941554" duration="3156000" />
       <workItem from="1615858133567" duration="3835000" />
       <workItem from="1615867605816" duration="1917000" />
-      <workItem from="1615929532474" duration="11792000" />
+      <workItem from="1615929532474" duration="12322000" />
+      <workItem from="1616008668021" duration="7605000" />
     </task>
     <servers />
   </component>
@@ -125,5 +128,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1828" y="102" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1616015261631">
+      <screen x="-1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="102" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040/-1920.10.1920.1040@-1920.10.1920.1040" timestamp="1616015261631" />
+    <state x="-967" y="10" width="974" height="1047" key="dock-window-1" timestamp="1616013054881">
+      <screen x="-1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="-967" y="10" width="974" height="1047" key="dock-window-1/0.0.1920.1040/-1920.10.1920.1040@-1920.10.1920.1040" timestamp="1616013054881" />
   </component>
 </project>
